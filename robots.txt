@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://concreteandepoxy.hudsonconcretecontractors.xyz/sitemap_index.xml
